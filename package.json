@@ -102,11 +102,11 @@
   },
   "peerDependencies": {
     "webpack": "^4.0.0",
-    "@vue/cli-service": "^4.0.0"
+    "@vue/cli-service": "^5.0.8"
   },
   "devDependencies": {
     "webpack": "^4.0.0",
-    "@vue/cli-service": "^4.0.0"
+    "@vue/cli-service": "^5.0.8"
   },
   "publishConfig": {
     "access": "public",
